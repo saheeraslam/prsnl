@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+#head{
+    font-size: 2rem;
+    font-style: oblique;
+}header{
+    background-color: black;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+}.content{
+    background-color: black;
+    text-align: center;
+    padding-top: 35px;
+    font-family: 'Shadows Into Light', cursive;
+}.content h1{
+    font-size: 3.5rem;
+}
+img{
+width: 1400px;
+height: 900px;
+object-fit: cover;
+}#carouselExampleIndicators{
+    width: 80%;
+    height: 100%;
+}#contact h1{
+    font-size: 5rem;
+}#contact h2{
+    font-size: 3rem;
+}#contact{
+    padding-top: 6rem;
+    background-color: rgb(37, 35, 35);
+}
+#addrs{
+    font-family: 'Barlow Condensed', sans-serif;
+}footer{
+    padding-top: 2rem;
+    text-align: center;
+}#social li{
+    display: inline-block;
+    margin: .5rem 1rem;
+}
